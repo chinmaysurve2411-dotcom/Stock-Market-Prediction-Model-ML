@@ -13,6 +13,7 @@ how historical stock data can be analyzed using Python.
 ## Project Status
 This project focuses on learning, structure, and design.
 Accuracy and performance are not the primary goals.
+Sample dataset provided for testing.
 
 ## Disclaimer
 This project is for educational purposes only and does not provide
